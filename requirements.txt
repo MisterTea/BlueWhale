@@ -2,6 +2,8 @@ python>=3.7
 cudatoolkit
 boost
 cmake
+gflags==2.2.2
+glog==0.4.0
 eigen==3.3.7
 maven==3.5.0
 numpy==1.17.2
